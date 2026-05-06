@@ -407,3 +407,8 @@ MIT License - 详见 [LICENSE](LICENSE)
 ## Keywords
 
 agent harness, AI operating system, data-driven AI, agent framework, LLM harness, AI infrastructure, agent runtime, build to delete, the bitter lesson, agent dataset, AI agent development, 2026 AI, agent orchestration, minimal framework, zero control flow
+
+## Related AI resources
+
+If you are building AI agents and need free model credits, provider comparisons, or OpenAI-compatible free API options, [yangmao.ai](https://yangmao.ai/en/free-ai-api/) maintains a bilingual free AI API and free-tier database.
+
